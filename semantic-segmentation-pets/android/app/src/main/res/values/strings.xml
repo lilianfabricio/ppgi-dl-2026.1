@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pet Segmentation</string>
+    <string name="app_title">Segmentação Semântica - Pets</string>
+    <string name="pick_gallery">Galeria</string>
+    <string name="pick_camera">Câmera</string>
+    <string name="run_inference">Inferir</string>
+    <string name="original_image">Imagem original</string>
+    <string name="segmented_image">Máscara sobreposta</string>
+    <string name="status_idle">Selecione uma imagem e toque em Inferir.</string>
+    <string name="status_loading_model">Carregando modelo…</string>
+    <string name="status_running">Executando inferência (FP32)…</string>
+    <string name="status_done">Inferência concluída.</string>
+    <string name="status_error">Erro: %1$s</string>
+    <string name="model_missing">Copie model.pt para assets (rode export_model.py).</string>
+</resources>
